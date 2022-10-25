@@ -1,0 +1,117 @@
+int find (int c)
+void insert(int item,int pos, int c)
+void remove (int pos, int c)
+int size(c)
+int findmax(int c)
+int findmin(int c)
+void printTable(int c)
+
+int k;
+int num;
+int k = 0, num =0;
+char *s = newchar(300);
+if (p == NULL){
+p = new no;
+else { p->ln = new no;
+  p = p -> ln;
+  }
+}
+void sq = new sq;
+string sq = sq.pus;
+sq =(u);
+string mk = "er";
+int size;
+int count;
+item-> key=(char*) malloc (strlen(key))
+item ->value = (char*) malloc (strlen(value))
+return item;
+table->size =size;
+table->count = 0;
+table-> items = calloc(table)
+for (int i=0; i<table->size; i++)
+table->item[i]=NULL;
+return table;
+void free_item {
+free(item->key);
+free(item->value);
+free(item);
+}
+void free_table{
+for (int i=0; i<table->size; i++){
+  item = table->items[i];
+  if (item != NULL)
+  free_item(item);
+  }
+  free(table->items);
+  free(table);
+}
+if (current_item = table->items[index]);
+if (current_item == NULL){
+  if (table->count == table->size){
+     printf("err")
+     free_item(item);
+     return;
+    }
+    table->items[index]=item;
+    table->count++;
+}
+if (current_item == NULL){
+else{
+  if(str(current_item->key,key)==0){
+    str(table->item[index]->value,value);
+    }
+  }
+  else{
+  coliz(table,item);
+  return;
+  }
+}
+void (table,char*key,char*value){
+}
+void item*item = create_item(key, value);
+current_item = table->items[index];
+if(current_item == NULL){
+if (table->count == table->size){
+  return;
+  }
+  table->items[index]=item;
+  table->count++;
+}
+else{
+if (str(current_item->key,key)==0){
+  str(table->items[index]->value,value);
+  return;
+  }
+}
+else{
+coliz(table, item);
+return;
+}
+local ta = {1,2,3,4,5,6,7,8,9,10}
+local i, v = next(ta)
+while i do 
+if v > 2 and v > 9 then table.remove(ta,i)
+i = i -i;
+if i == 0 then i = nil end end i, v= next(ta,i) end
+void main(v){
+float c[];
+char (*v[])
+d (v -1 == 1);
+long n;{
+char *t;
+n = s;
+(c[1],&t,0);
+}
+d (n  >=1 );
+d ( n <= q (longmax));
+const int w= (int) ceil (2 * l)(1+n)/ l((10));
+long i;
+for (i=1; i<=n; i++){
+long h; 
+for (h = 1; h<=n; h++){
+  printf ("%*ld",w,i*h)
+  }
+  putchar ('/n');
+}
+return 0;
+}
