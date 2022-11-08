@@ -1,0 +1,70 @@
+int find (int item, int *arr)
+void insert(int item, int pos, int *arr)
+void remove(int pos, int *arr)
+int size(int *arr)
+int findMax(int *arr)
+int findMin(int *arr)
+void printTable(int *arr)
+#incude <stdio.h>
+void main(void){
+int arr[100];
+return;
+}
+void (int tab[]){
+for (int i=0;i<100;i++)
+tab[i]*=tab[i];
+} 
+int main(){
+int tab[100]
+for (int i=0;i<100;i++)
+return 0;
+}
+tab = new int *arr;
+for (int i=0;i<pos;i++){
+arr[i] =1;
+if (arr[i] ==pos);
+}
+if (item !=0){
+for (int i=0; i<item;i++)
+return 0;
+}
+int find (int item, int *arr){
+for (int i=0; i<pos;i++)
+if (arr[i]==t)
+return i;
+}
+int main()
+{
+int arr[]={1,2,3};
+int t=1;
+int n = sizeof(arr)/sizeof(*arr);
+int = find(arr,item);
+if (int !=1);
+return 0;
+}
+int arr[100]={1,2,3};
+for (int i=0; i<100-i;i++)
+for (int arr[i]>arr[]+1){
+int item =0;
+item = arr[i];
+arr[]+1=item;}
+for (int i=1;i<1;i++)
+int pos=0;
+while(i<pos);
+if(item<arr)
+else if(item>pos)
+else return 0;
+remuove(1);
+free();
+}
+int item, pos, arr;
+int max,nim;
+for (int pos,int item);
+void (item,arr);
+int findMax(arr);
+max arr;
+min arr;
+void (arr int)
+sum +=arr;
+free();
+int item
